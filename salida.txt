@@ -1,0 +1,3 @@
+Ingrese numero
+5
+impar
